@@ -1,5 +1,5 @@
 {
-  "name": "@edrissa7/react-native-bluetooth-escpos-printer",
+  "name": "@edrissa2024/react-native-bluetooth-escpos-printer",
   "version": "0.0.6",
   "description": "React-Native plugin for the bluetooth ESC/POS printers.",
   "main": "index.js",
@@ -22,5 +22,13 @@
     "doc": "docs",
     "example": "examples"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edrissa7/react-native-bluetooth-escpos-printer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edrissa7/react-native-bluetooth-escpos-printer/issues"
+  },
+  "homepage": "https://github.com/edrissa7/react-native-bluetooth-escpos-printer#readme"
 }
